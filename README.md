@@ -7,4 +7,4 @@ Exploratory data analysis of Twitter Stream from March 2016 using the Big data t
 
 * Please go through **readme_local.md** for the instructions to run the Jupyter Notebook specific to local machine which contains a couple of analytics based on the outputs of previous spark pre-processing.
 
-We had to run it in two separate notebooks for because of the limitations we are facing with Microsoft Azure HDInsights.
+We had to run it in two separate notebooks because of few limitations we are facing with Microsoft Azure HDInsights.
