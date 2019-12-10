@@ -81,11 +81,11 @@ pip install jupyter
 pip install pyspark
 ```
 
-Now, copy the files which were created during the previous run to a new folder and the main code file. The files are: 
-1. part-00000-481943e0-3049-4c42-803a-93134747645e-c000.csv
-2. March100k.bz2
-3. HashtagData.json
-4. March_2016_Twitter_Processing_Local.ipynb
+Now, copy the files which were created during the previous run to a new folder and the main code file. The folder from which the input files are originating are mentioned in the Jupyter Notebook. 
+
+For example, for the input file for Misspelled words, take the file "part-00000-481943e0-3049-4c42-803a-93134747645e-c000.csv" from the output folder "Misspelled_words.csv"
+
+Jupyter Notebook - March_2016_Twitter_Processing_Local.ipynb
 
 ##Running the local processing
 ```$
