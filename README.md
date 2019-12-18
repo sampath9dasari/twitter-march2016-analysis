@@ -2,6 +2,8 @@
 
 Exploratory data analysis of Twitter Stream from March 2016 using the Big data tool Apache-Spark with python and application of various machine learning, data mining concepts such as LDA, Network Analysis &amp; Clustering.
 
+I personally worked on the Network analysis and LDA.
+
 ## Instructions
 * Please start with **readme_main.pdf** for the instructions to run the Jupyter Notebook specific to Spark for the Pre-processing and most of the analysis.
 
